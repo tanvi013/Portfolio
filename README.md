@@ -1,11 +1,11 @@
 
 Welcome to my personal **portfolio website**, showcasing my skills, projects, and background as a final-year B.Tech student passionate about programming and web development.
 
-🔗 **Live Site:** [https://tanvi013.github.io/Portfolio/]
+🔗 **Live Site:** https://tanvi013.github.io/Portfolio/
 
 ## About Me
 
-I'm **Tanvi Yadav**, a final-year B.Tech student . I'm deeply curious about how technology works, especially when it comes to interactive web pages and intelligent systems. I have hands-on experience with:
+I'm **Tanvi Yadav** . I'm deeply curious about how technology works, especially when it comes to interactive web pages and intelligent systems. I have hands-on experience with:
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Programming**: C++, Data Structures & Algorithms
